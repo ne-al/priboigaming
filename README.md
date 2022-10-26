@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priboigaming
 - 👀 I’m interested in game and app dev
-- 🌱 I’m currently learning c++ with unreal
+- 🌱 I’m currently learning dart with flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
